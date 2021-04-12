@@ -16,6 +16,7 @@ module.exports = {
   // host: IS_DEV ? '192.168.0.88' : '',
   port: IS_DEV ? '2000' : '',
   dest: './dist',
+  theme: 'antdocs',
   themeConfig: {
     nav: [
       {

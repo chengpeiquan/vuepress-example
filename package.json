@@ -5,9 +5,11 @@
   "private": true,
   "dependencies": {
     "vue-baidu-analytics": "^2.1.0",
-    "vuepress": "^1.8.0"
+    "vuepress": "^1.8.0",
+    "vuepress-theme-antdocs": "^1.2.2"
   },
   "devDependencies": {
+    "core-js": "2.6.11",
     "vuepress": "^1.8.0"
   },
   "scripts": {

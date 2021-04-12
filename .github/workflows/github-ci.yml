@@ -2,7 +2,7 @@ name: github-ci
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, ant-docs-test ]
 
 jobs:
   build-and-deploy:
