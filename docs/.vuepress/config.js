@@ -25,7 +25,8 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      'test'
+      'test',
+      'customer'
     ],
     sidebarDepth: 2,
     smoothScroll: true,
