@@ -1,0 +1,31 @@
+{
+  "name": "vuepress-example",
+  "version": "1.0.0",
+  "description": "An example for vuepress.",
+  "private": true,
+  "dependencies": {
+    "vue-baidu-analytics": "^2.0.3",
+    "vuepress": "^1.8.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengpeiquan/vuepress-example.git"
+  },
+  "keywords": [
+    "vuepress",
+    "example"
+  ],
+  "author": "chengpeiquan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengpeiquan/vuepress-example/issues"
+  }
+}
