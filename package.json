@@ -4,7 +4,7 @@
   "description": "An example for vuepress.",
   "private": true,
   "dependencies": {
-    "vue-baidu-analytics": "^2.0.3",
+    "vue-baidu-analytics": "^2.1.0",
     "vuepress": "^1.8.0"
   },
   "devDependencies": {

@@ -7488,10 +7488,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-vue-baidu-analytics@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/vue-baidu-analytics/-/vue-baidu-analytics-2.0.3.tgz#9bcf0c3b78e2197a44586384899f5f45e9fcd677"
-  integrity sha512-UZanwVd4wlGipTb6+wcIZ0GPccHEIY6o/SVtJIgiuDTTkKnNAz4/gToo9+kDIa9leZK5ey6HwZ6DvrzRnSu/EA==
+vue-baidu-analytics@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/vue-baidu-analytics/-/vue-baidu-analytics-2.1.0.tgz#a1b85dbb2acdd2e792f50196deee0d7933abd526"
+  integrity sha512-Vn0wTqVnsKmSIPTCaE0kQtDqaerZ717M6RYqWielN5/RxbbbJYr9pOqS37GRWzLHN03FwOXFbnQ1a8WBVzyO8A==
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
